@@ -1,2 +1,2 @@
 # netrunner-flattr-icons
-netrunner-flattr-icons
+Flattr icons for Netrunner Rolling.
